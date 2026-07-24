@@ -1,8 +1,8 @@
-# Welcome to Nexus-Prop 🏢⚡
+# Welcome to NexusProp 🏢⚡
 
 > **The connected ecosystem for buying, renting, and trading real estate.**
 
-Nexus-Prop is a modern, unified platform designed to streamline real estate transactions. Whether it's traditional sales, long-term rentals, or flexible property trading and exchanges, Nexus-Prop provides a seamless, data-driven engine to manage liquidity and portfolio movement in one place.
+NexusProp is a modern, unified platform designed to streamline real estate transactions. Whether it's traditional sales, long-term rentals, or flexible property trading and exchanges, NexusProp provides a seamless, data-driven engine to manage liquidity and portfolio movement in one place.
 
 ---
 
@@ -19,7 +19,7 @@ Nexus-Prop is a modern, unified platform designed to streamline real estate tran
 ## 🏗️ Architectural Overview
 
                       ┌────────────────────────┐
-                      │   Nexus-Prop Engine    │
+                      │   NexusProp Engine    │
                       └───────────┬────────────┘
                                   │
            ┌──────────────────────┼──────────────────────┐
@@ -33,7 +33,7 @@ Nexus-Prop is a modern, unified platform designed to streamline real estate tran
 
 ## 🛠️ Tech Stack & Ecosystem
 
-Nexus-Prop is built with scalability, resilience, and multi-platform performance in mind:
+NexusProp is built with scalability, resilience, and multi-platform performance in mind:
 
 * **Frontend & Apps:** Cross-platform web & mobile client suites.
 * **Backend Services:** Microservice architecture powered by robust APIs and event-driven data pipelines.
@@ -53,12 +53,12 @@ We welcome contributions from developers, architects, and real estate tech enthu
 
 ## 📬 Connect With Us
 
-* **Website:** [nexus-prop.io](https://nexus-prop.io)
-* **Documentation:** [docs.nexus-prop.io](https://docs.nexus-prop.io)
-* **Contact:** `sales@nexus-prop.io`
+* **Website:** [NexusProp.io](https://NexusProp.io)
+* **Documentation:** [docs.NexusProp.io](https://docs.NexusProp.io)
+* **Contact:** `sales@NexusProp.io`
 
 ---
 
 <p align="center">
-  <sub>Built with precision for the future of PropTech. © Nexus-Prop</sub>
+  <sub>Built with precision for the future of PropTech. © NexusProp</sub>
 </p>
